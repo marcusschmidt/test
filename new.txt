@@ -1,1 +1,6 @@
+<<<<<<< ours
 asdfsdf
+=======
+123
+>>>>>>> theirs
+asd
