@@ -1,1 +1,1 @@
-clean 5 local2
+clean 6 local
