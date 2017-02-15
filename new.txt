@@ -1,9 +1,1 @@
-<<<<<<< feature/neuer_task_3
-<<<<<<< feature/neuer_task_3
-asd123 feature
-=======
-asd test123 master
->>>>>>> master
-=======
-asd test123 master
->>>>>>> master
+feature
